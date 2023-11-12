@@ -1,32 +1,37 @@
 ## Sales Report :
 
 
-- **Project objective:** 
+- **Project Objectives:** 
+    1. Develop a [_customer performance report_](https://github.com/kennethChan30/Excel-business-report/blob/main/Customer%20Net%20sales%20Performance.pdf).
+    2. Perform a thorough comparison of [_market performance and sales targets_](https://github.com/kennethChan30/Excel-business-report/blob/main/Market%20Performance.pdf).
+    3. Generate reports on [_Top 10 Products by Growth Rate_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%2010%20Products%20report.pdf) and [_Top 5 Products by Total Quantity_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%205%20Products%20by%20Qty.pdf) as well as reports on [Bottom 5 Products by Quantity](https://github.com/kennethChan30/Excel-business-report/blob/main/Bottom%205%20Products%20by%20Qty.pdf).
 
-    **1.** Create a _[customer performance report](https://github.com/kennethChan30/Excel-business-report/blob/main/Customer%20Net%20sales%20Performance.pdf)_ 
+- **Purpose of Sales Analytics:** 
+    - Empower businesses to monitor and evaluate their sales activities and performance.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/kennethChan30/Excel-business-report/blob/main/Market%20Performance.pdf)_
+- **Importance of Analyzing Sales Data:** 
+    - Identify sales patterns and track key performance indicators (KPIs).
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Role of Reports:** 
+    - Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
 
-- **Project objective:** 
+- **Project Objectives:** 
+    1. Generate Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/kennethChan30/Excel-business-report/blob/main/GM%25%20by%20Quarters.pdf).
+    2. Create Profit and Loss (P&L) reports by [_Markets_](https://github.com/kennethChan30/Excel-business-report/blob/main/P%26L%20for%20markets.pdf).
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/kennethChan30/Excel-business-report/blob/main/GM%25%20by%20Quarters.pdf)_ 
+- **Purpose of Sales Analytics:** 
+    - Facilitate evaluation of financial performance, support decision-making processes, and improve communication with stakeholders.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kennethChan30/Excel-business-report/blob/main/P%26L%20for%20markets.pdf)_
+- **Importance of Analyzing Finance Data:** 
+    - Assist in benchmarking against industry peers and historical performance; provide a foundation for budgeting and forecasting.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Role of Reports:** 
+    - Align financial planning with strategic objectives and bolster confidence in the organization's financial prospects.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
 ## Technical Skills:
