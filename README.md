@@ -8,8 +8,8 @@
 
 
 ## Finance Report :
-1. [_Yearly Gross margin% by sub zone, qyarterly_](https://github.com/kennethChan30/Excel-business-report/blob/main/Yearly%20GM%25%20by%20Sub%20Zone%20Quarterly.pdf).
-2. [_Groess margin report for markets_](https://github.com/kennethChan30/Excel-business-report/blob/main/GM%20Report%20for%20Markets.pdf).
+1. [_Yearly Gross Margin Percentage by Sub Zone, Quarterly_](https://github.com/kennethChan30/Excel-business-report/blob/main/Yearly%20GM%25%20by%20Sub%20Zone%20Quarterly.pdf).
+2. [_Gross Margin Report for Markets_](https://github.com/kennethChan30/Excel-business-report/blob/main/GM%20Report%20for%20Markets.pdf).
 
 
 - **Role of Reports:** 
