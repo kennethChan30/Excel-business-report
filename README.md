@@ -1,15 +1,15 @@
 ## Sales Report :
-    1. [_Customer performance report_](https://github.com/kennethChan30/Excel-business-report/blob/main/Customer%20Net%20sales%20Performance.pdf).
-    2. Comparison of [_market performance and targets_](https://github.com/kennethChan30/Excel-business-report/blob/main/Market%20Performance.pdf).
-    3. Product performance report on [_Top 10 products by growth rate_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%2010%20Products%20by%20Growth%20Rate.pdf) and [_Top 5 products by total puantity_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%205%20Products%20by%20Quantity%20Sold.pdf) as well as reports on [Bottom 5 products by total quantity](https://github.com/kennethChan30/Excel-business-report/blob/main/Bottom%205%20Products%20by%20Quantity%20Sold.pdf).
+1. [_Customer performance report_](https://github.com/kennethChan30/Excel-business-report/blob/main/Customer%20Net%20sales%20Performance.pdf).
+2. Comparison of [_market performance and targets_](https://github.com/kennethChan30/Excel-business-report/blob/main/Market%20Performance.pdf).
+3. Product performance report on [_Top 10 products by growth rate_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%2010%20Products%20by%20Growth%20Rate.pdf) and [_Top 5 products by total puantity_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%205%20Products%20by%20Quantity%20Sold.pdf) as well as reports on [Bottom 5 products by total quantity](https://github.com/kennethChan30/Excel-business-report/blob/main/Bottom%205%20Products%20by%20Quantity%20Sold.pdf).
 
 - **Role of Reports:** 
     - Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 ## Finance Report :
-    1. [_Yearly Gross margin% by sub zone, qyarterly_](https://github.com/kennethChan30/Excel-business-report/blob/main/Yearly%20GM%25%20by%20Sub%20Zone%20Quarterly.pdf).
-    2. [_Groess margin report for markets_](https://github.com/kennethChan30/Excel-business-report/blob/main/GM%20Report%20for%20Markets.pdf).
+1. [_Yearly Gross margin% by sub zone, qyarterly_](https://github.com/kennethChan30/Excel-business-report/blob/main/Yearly%20GM%25%20by%20Sub%20Zone%20Quarterly.pdf).
+2. [_Groess margin report for markets_](https://github.com/kennethChan30/Excel-business-report/blob/main/GM%20Report%20for%20Markets.pdf).
 
 
 - **Role of Reports:** 
