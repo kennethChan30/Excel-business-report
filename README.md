@@ -18,14 +18,13 @@
 
 
 ## Technical Skills:
-- [x]	Proficient in ETL (Extract, Transform, Load) methodology, ensuring efficient data processing.
-- [x]	Skilled in data cleaning, merging, and transformation using Power Query, optimizing data preparation.
-- [x]	Expertise in conducting cross-sectional analysis with Excel Pivot Tables to improve data insight and report quality.
-- [x]	Developed data models to enable effective use of Power Pivot and DAX for advanced data calculations.
-- [x]	Successfully incorporated additional data into existing data models for comprehensive analysis.
+- [x]	Proficient in ETL (Extract, Transform, Load), ensuring efficient data processing.
+- [x]	Skilled in data cleaning, merging, and transformation using Power Query, optimizing data preparation processes.
+- [x]	Expertise in conducting cross-sectional analyses with Excel Pivot Tables to enhance data insight and report quality.
+- [x]	Developed data models to enable effective use of Power Pivot.
 - [x]	Experienced in using DAX to create calculated columns for detailed data analysis.
 
 ## Soft Skills:
-- [x]	Advanced understanding of Sales and Finance Reporting, providing accurate and insightful business analyses.
-- [x]	Designed user-focused reports, prioritizing empathy to meet end-user needs effectively.
+- [x]	Enhanced understanding of Sales and Finance Reporting, providing accurate and insightful business analyses.
+- [x]	Designed user-focused reports to effectively meet end-user needs.
 - [x]	Applied key business metrics (sales, COGS, gross profit margin) via Power Pivot to enhance financial and business reporting.
