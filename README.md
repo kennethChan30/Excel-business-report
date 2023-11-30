@@ -1,33 +1,16 @@
 ## Sales Report :
-
-
-- **Project Objectives:** 
-    1. Develop a [_customer performance report_](https://github.com/kennethChan30/Excel-business-report/blob/main/Customer%20Net%20sales%20Performance.pdf).
-    2. Perform a thorough comparison of [_market performance and sales targets_](https://github.com/kennethChan30/Excel-business-report/blob/main/Market%20Performance.pdf).
-    3. Generate reports on [_Top 10 Products by Growth Rate_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%2010%20Products%20report.pdf) and [_Top 5 Products by Total Quantity_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%205%20Products%20by%20Qty.pdf) as well as reports on [Bottom 5 Products by Quantity](https://github.com/kennethChan30/Excel-business-report/blob/main/Bottom%205%20Products%20by%20Qty.pdf).
-
-- **Purpose of Sales Analytics:** 
-    - Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of Analyzing Sales Data:** 
-    - Identify sales patterns and track key performance indicators (KPIs).
+    1. [_Customer performance report_](https://github.com/kennethChan30/Excel-business-report/blob/main/Customer%20Net%20sales%20Performance.pdf).
+    2. Comparison of [_market performance and targets_](https://github.com/kennethChan30/Excel-business-report/blob/main/Market%20Performance.pdf).
+    3. Product performance report on [_Top 10 products by growth rate_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%2010%20Products%20by%20Growth%20Rate.pdf) and [_Top 5 products by total puantity_](https://github.com/kennethChan30/Excel-business-report/blob/main/Top%205%20Products%20by%20Quantity%20Sold.pdf) as well as reports on [Bottom 5 products by total quantity](https://github.com/kennethChan30/Excel-business-report/blob/main/Bottom%205%20Products%20by%20Quantity%20Sold.pdf).
 
 - **Role of Reports:** 
     - Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-
 ## Finance Report :
+    1. [_Yearly Gross margin% by sub zone, qyarterly_](https://github.com/kennethChan30/Excel-business-report/blob/main/Yearly%20GM%25%20by%20Sub%20Zone%20Quarterly.pdf).
+    2. [_Groess margin report for markets_](https://github.com/kennethChan30/Excel-business-report/blob/main/GM%20Report%20for%20Markets.pdf).
 
-- **Project Objectives:** 
-    1. Generate Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/kennethChan30/Excel-business-report/blob/main/GM%25%20by%20Quarters.pdf).
-    2. Create Profit and Loss (P&L) reports by [_Markets_](https://github.com/kennethChan30/Excel-business-report/blob/main/P%26L%20for%20markets.pdf).
-
-- **Purpose of Sales Analytics:** 
-    - Facilitate evaluation of financial performance, support decision-making processes, and improve communication with stakeholders.
-
-- **Importance of Analyzing Finance Data:** 
-    - Assist in benchmarking against industry peers and historical performance; provide a foundation for budgeting and forecasting.
 
 - **Role of Reports:** 
     - Align financial planning with strategic objectives and bolster confidence in the organization's financial prospects.
